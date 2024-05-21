@@ -64,11 +64,14 @@ top 명령어는 Linux와 Unix 시스템에서 실시간으로 시스템 성능�
 8. 명령어 옵션
 : top 명령어는 다양한 옵션을 제공하여 초기 실행 환경을 설정할 수 있습니다.
   - `-d`: 갱신 주기 설정 (초 단위)
-      ex) top -d 5
+
+    ex) top -d 5
   - `-p`: 특정 PID를 모니터링
-      ex) top -p 1234
+
+     ex) top -p 1234
   - `-u`: 특정 사용자의 프로세스만 표시
-      ex) top -u username
+
+    ex) top -u username
 
 ## ps
 ## jobs
